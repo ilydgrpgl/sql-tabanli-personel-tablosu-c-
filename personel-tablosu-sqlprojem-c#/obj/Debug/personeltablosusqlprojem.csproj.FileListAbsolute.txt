@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\c#\personeltablosusqlprojem\personeltablosusqlprojem\bin\Debug\personeltablosusqlprojem.exe.config
+C:\Users\user\Desktop\c#\personeltablosusqlprojem\personeltablosusqlprojem\bin\Debug\personeltablosusqlprojem.exe
+C:\Users\user\Desktop\c#\personeltablosusqlprojem\personeltablosusqlprojem\bin\Debug\personeltablosusqlprojem.pdb
+C:\Users\user\Desktop\c#\personeltablosusqlprojem\personeltablosusqlprojem\obj\Debug\personeltablosusqlprojem.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\c#\personeltablosusqlprojem\personeltablosusqlprojem\obj\Debug\personeltablosusqlprojem.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\c#\personeltablosusqlprojem\personeltablosusqlprojem\obj\Debug\personeltablosusqlprojem.Properties.Resources.resources
+C:\Users\user\Desktop\c#\personeltablosusqlprojem\personeltablosusqlprojem\obj\Debug\personeltablosusqlprojem.csproj.GenerateResource.cache
+C:\Users\user\Desktop\c#\personeltablosusqlprojem\personeltablosusqlprojem\obj\Debug\personeltablosusqlprojem.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\c#\personeltablosusqlprojem\personeltablosusqlprojem\obj\Debug\personeltablosusqlprojem.exe
+C:\Users\user\Desktop\c#\personeltablosusqlprojem\personeltablosusqlprojem\obj\Debug\personeltablosusqlprojem.pdb
+C:\Users\user\Desktop\c#\personeltablosusqlprojem\personeltablosusqlprojem\obj\Debug\personeltablosusqlprojem.personelistatistik.resources
+C:\Users\user\Desktop\c#\personeltablosusqlprojem\personeltablosusqlprojem\obj\Debug\personeltablosusqlprojem.personelistatistikform.resources
+C:\Users\user\Desktop\c#\personeltablosusqlprojem\personeltablosusqlprojem\obj\Debug\personeltablosusqlprojem.anaform.resources
+C:\Users\user\Desktop\c#\personeltablosusqlprojem\personeltablosusqlprojem\obj\Debug\personeltablosusqlprojem.personelgrafikform.resources
+C:\Users\user\Desktop\c#\personeltablosusqlprojem\personeltablosusqlprojem\obj\Debug\personeltablosusqlprojem.personelgirispanelform.resources
